@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="João Pedro Venâncio — Software Developer" />
+<img src="./assets/ui/header.gif" width="100%" alt="João Pedro Venâncio — Software Developer" />
 
 </div>
 
@@ -8,9 +8,19 @@
 
 ## About
 
-Desenvolvedor focado em **backend, APIs e construção de sistemas**, com interesse em arquitetura de software, bancos de dados, integração entre serviços e segurança de aplicações.
+```text
+profile@jprvenancio:~$ whoami
+João Pedro Venâncio — Software Developer
 
-Atualmente transformo ideias em projetos próprios e uso cada um deles para aprofundar conceitos técnicos, arquitetura e decisões de produto.
+profile@jprvenancio:~$ focus
+Backend · APIs · Software Architecture · Application Security
+
+profile@jprvenancio:~$ building
+Orbit · Sentinel · Relay · Pulse · FinancePro
+
+profile@jprvenancio:~$ philosophy
+Understand → Build → Improve
+```
 
 <br>
 
@@ -58,7 +68,7 @@ Atualmente transformo ideias em projetos próprios e uso cada um deles para apro
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" title="GitHub" alt="GitHub" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="42" title="Figma" alt="Figma" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/claude/D97757" width="42" title="Claude" alt="Claude" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/bubble/FFFFFF" width="42" title="Bubble" alt="Bubble" />
+<img src="./assets/tech/bubble.svg" width="42" title="Bubble" alt="Bubble" />
 
 </div>
 
@@ -79,7 +89,9 @@ Portfólio pessoal para apresentar minha trajetória, projetos e evolução téc
 
 `React` `JavaScript` `Tailwind`
 
-<a href="https://github.com/JprVenancio/portfolio-joao-pedro"><b>View project →</b></a>
+<a href="https://github.com/JprVenancio/portfolio-joao-pedro">
+<img src="./assets/ui/view-project.gif" width="154" alt="View project" />
+</a>
 
 </div>
 
@@ -95,7 +107,7 @@ Developer platform para criar, converter e modernizar aplicações.
 
 `Automation` `Architecture` `Developer Tools`
 
-<sub>● IN DEVELOPMENT</sub>
+<img src="./assets/ui/in-development.gif" width="164" alt="In development" />
 
 </div>
 
@@ -114,7 +126,7 @@ Plataforma voltada à segurança, análise e confiabilidade de aplicações.
 
 `Security` `Analysis` `Systems`
 
-<sub>● IN DEVELOPMENT</sub>
+<img src="./assets/ui/in-development.gif" width="164" alt="In development" />
 
 </div>
 
@@ -130,7 +142,7 @@ Integração e automação entre APIs, serviços e dados através de workflows.
 
 `Integrations` `Workflows` `APIs`
 
-<sub>● IN DEVELOPMENT</sub>
+<img src="./assets/ui/in-development.gif" width="164" alt="In development" />
 
 </div>
 
@@ -149,7 +161,7 @@ Observabilidade, telemetria e visibilidade operacional para sistemas em execuç�
 
 `Observability` `Telemetry` `Monitoring`
 
-<sub>● IN DEVELOPMENT</sub>
+<img src="./assets/ui/in-development.gif" width="164" alt="In development" />
 
 </div>
 
@@ -165,7 +177,7 @@ Gestão financeira com foco em organização, acompanhamento e clareza dos dados
 
 `Finance` `Backend` `Data`
 
-<sub>● IN DEVELOPMENT</sub>
+<img src="./assets/ui/in-development.gif" width="164" alt="In development" />
 
 </div>
 
@@ -191,11 +203,17 @@ Gestão financeira com foco em organização, acompanhamento e clareza dos dados
 
 <div align="center">
 
-<a href="www.linkedin.com/in/joão-pedro-rodrigues-venancio-688588235">LinkedIn</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://portfolio-joao-pedro-three.vercel.app">Portfolio</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="Jprvenancio2304@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-venancio-688588235">
+  <img src="./assets/ui/contact-linkedin.gif" width="122" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://portfolio-joao-pedro-three.vercel.app">
+  <img src="./assets/ui/contact-portfolio.gif" width="124" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:Jprvenancio2304@gmail.com">
+  <img src="./assets/ui/contact-email.gif" width="108" alt="Email" />
+</a>
 
 <br><br>
 
